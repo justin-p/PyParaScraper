@@ -1,0 +1,4 @@
+pyyaml
+random_user_agent
+discord_webhook
+telegram

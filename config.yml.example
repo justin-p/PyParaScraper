@@ -1,0 +1,27 @@
+scraper:
+  city: rotterdam
+  neighborhoods:
+    [
+      "charlois",
+      "delfshaven",
+      "feijenoord",
+      "ijsselmonde",
+      "kralingen-crooswijk",
+      "noord",
+      "rivium",
+      "rotterdam-centrum",
+    ]
+  residence_type:
+  min_price: 900
+  max_price: 1200
+  min_rooms:
+  min_bedrooms:
+  interior_type:
+  min_m2: 40
+  interval_in_seconds: 600
+  
+notify:
+  chat_platform: discord
+  discord_webhook_url: "https://discord.com/api/webhooks/123456/AbCdEf-GhIjKlM"
+  telegram_api_token:
+  telegram_chat_id:
