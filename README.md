@@ -24,3 +24,7 @@ Features:
 ## Run
 
 `python3 PyParaScraper.py`
+
+## Contributing
+
+Feel free to open issues, contribute and submit your Pull Requests. You can also ping me on Twitter (@JustinPerdok)
