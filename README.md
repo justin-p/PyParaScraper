@@ -1,4 +1,4 @@
-# PyParascraper
+# PyParaScraper
 
 Pararius.nl scraper, based of the work done by [royreinders](https://github.com/royreinders/PyParascraper).
 
