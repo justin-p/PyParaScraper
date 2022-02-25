@@ -23,4 +23,4 @@ Features:
 
 ## Run
 
-`python3 PyParascraper.py`
+`python3 PyParaScraper.py`
