@@ -5,7 +5,7 @@ Pararius.nl scraper, based of the work done by [royreinders](https://github.com/
 Features:
 
 - Supports a couple, but not all, filters.
-- Built-in anti-"bot detection" evasion 👺.
+- Built-in "bot detection" evasion 👺.
 - Send new listings to telegram or discord.
 - No hardcoded shizzels, everything is in a config file.
 
