@@ -1,4 +1,5 @@
 pyyaml
+beautifulsoup4
 random_user_agent
 discord_webhook
 telegram
