@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from pps import scraper, notify
+from PPS import scraper, notify
 import time
 import yaml
 
