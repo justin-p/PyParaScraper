@@ -13,7 +13,7 @@ Features:
 
 1. Install the `requirements.txt`
 
-`pip3 install requirements.txt`
+`pip3 install -r requirements.txt`
 
 2. Create copy of config.yml.example
 
